@@ -111,8 +111,8 @@ CETV4,http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000252
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 翡翠台,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-無碼:日本無碼001,http://120.52.73.65/data1.cache.directory/media/videos/iphone/3491.mp4
-無碼:日本無碼002,http://120.52.73.65/data1.cache.directory/media/videos/iphone/4002.mp4
+日本無碼001,http://120.52.73.65/data1.cache.directory/media/videos/iphone/3491.mp4
+日本無碼002,http://120.52.73.65/data1.cache.directory/media/videos/iphone/4002.mp4
 #EXTINF:-1,無碼:日本無碼003
 http://120.52.73.65/data1.cache.directory/media/videos/iphone/4003.mp4
 #EXTINF:-1,無碼:日本無碼004
