@@ -521,7 +521,5 @@ http://live.gdtv.ah.cn/live/newsTV.m3u8
 http://live.gdtv.ah.cn/live/shenghuoTV.m3u8
 #EXTINF:-1,郎溪新闻综合HD
 http://112.28.222.71:20080/live/751884c1607843c1aa0f54620630f8e7/hls.m3u8
-#EXTINF:-1,泾县新闻综合HD
-http://apisave.jxnn.cn/hls/xwzonhe/playlist.m3u8
 #EXTINF:-1,淮北矿业HD
 http://xcblive.hbcoal.com/3/playlist.m3u8
